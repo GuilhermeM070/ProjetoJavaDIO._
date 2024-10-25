@@ -1,3 +1,3 @@
 ## Projetos Java DIO/Desafios de Codigo
 
-Desafios de Codigo proposto pela DIO._
+Desafios de Codigo propostos pela DIO._
